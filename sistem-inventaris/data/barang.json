@@ -1,0 +1,16 @@
+[
+    {
+        "id": "6b08d9731106c",
+        "kode": "BRG001",
+        "nama": "TEST",
+        "stok": 30,
+        "tipe": "I"
+    },
+    {
+        "id": "6b08d99e0571b",
+        "kode": "BBR021",
+        "nama": "TEST1",
+        "stok": 0,
+        "tipe": "test"
+    }
+]
